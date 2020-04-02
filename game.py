@@ -52,4 +52,5 @@ elif (decision == "2"):
     player_items.append("Potion")
     print("Your items now: ")
     print(player_items)
+    print("thanks for play!")
 #            ---section end---           #
